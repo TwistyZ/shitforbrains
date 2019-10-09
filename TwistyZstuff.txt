@@ -113,3 +113,13 @@ starthook hgn_LockPicking​
 endhook hgn_LockPicking
 
 ---
+
+---
+
+starthook MF_SkeletalSystem​
+
+192.99.200.224 - Me
+
+endhook MF_SkeletalSystem​
+
+---
