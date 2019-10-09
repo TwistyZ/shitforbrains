@@ -1,0 +1,115 @@
+---
+
+starthook hgn_dope
+
+192.99.200.224 - Me
+
+endhook hgn_dope
+
+------
+
+starthook hgn_Pawn
+
+192.99.200.224 - Me
+    
+endhook hgn_Pawn
+
+---
+
+starthook hgn_tuner
+
+192.99.200.224 - Me
+
+endhook hgn_tuner
+
+---
+
+starthook hgn_stress
+
+192.99.200.224 - Me
+
+endhook hgn_stress
+
+---
+
+starthook esx_policemdt
+
+192.99.200.224 - Me
+
+endhook esx_policemdt
+
+---
+
+starthook hgn_tracker​
+
+192.99.200.224 - Me
+
+endhook hgn_tracker
+
+---
+
+starthook hgn_MobileMeth
+
+192.99.200.224 - Me
+
+endhook hgn_MobileMeth
+
+---
+
+starthook hgn_PlayerSafes
+
+192.99.200.224 - Me
+
+endhook hgn_PlayerSafes
+
+---
+
+starthook hgn_Purge
+
+192.99.200.224 - Me
+
+endhook hgn_Purge
+
+---
+
+starthook hgn_Track
+
+192.99.200.224 - Me
+
+endhook hgn_Track
+
+```
+
+---
+
+starthook hgn_Box
+
+192.99.200.224 - Me
+
+endhook hgn_Boxing
+
+---
+
+starthook hgn_Vehsales
+
+192.99.200.224 - Me
+
+endhook hgn_VehSales
+
+---
+
+starthook hgn_SafeCracker
+
+192.99.200.224 - Me
+
+endhook hgn_SafeCracker
+
+---
+
+starthook hgn_LockPicking​
+
+192.99.200.224 - Me
+
+endhook hgn_LockPicking
+
+---
