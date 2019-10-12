@@ -126,7 +126,7 @@ starthook MF_ObjectSpawner
 
 192.99.200.224 - Me
 
-endhook hgn_ObjectSpawner
+endhook MF_ObjectSpawner
 
 ```
 
