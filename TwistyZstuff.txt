@@ -122,7 +122,7 @@ endhook hgn_SkelSystem​
 
 ---
 
-starthook hgn_ObjectSpawner
+starthook MF_ObjectSpawner
 
 192.99.200.224 - Me
 
