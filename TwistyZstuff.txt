@@ -114,8 +114,6 @@ endhook hgn_LockPicking
 
 ---
 
----
-
 starthook hgn_SkelSystem​
 
 192.99.200.224 - Me
@@ -123,3 +121,11 @@ starthook hgn_SkelSystem​
 endhook hgn_SkelSystem​
 
 ---
+
+starthook hgn_ObjectSpawner
+
+192.99.200.224 - Me
+
+endhook hgn_ObjectSpawner
+
+```
