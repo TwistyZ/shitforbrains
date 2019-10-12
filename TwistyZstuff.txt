@@ -116,7 +116,7 @@ endhook hgn_LockPicking
 
 ---
 
-starthook MF_SkeletalSystem​
+starthook hgn_SkelSystem​
 
 192.99.200.224 - Me
 
