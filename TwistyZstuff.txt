@@ -98,11 +98,11 @@ endhook hgn_VehSales
 
 ---
 
-starthook hgn_SafeCracker
+starthook MF_SafeCracker
 
 192.99.200.224 - Me
 
-endhook hgn_SafeCracker
+endhook MF_SafeCracker
 
 ---
 
