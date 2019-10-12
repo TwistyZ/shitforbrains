@@ -129,3 +129,11 @@ starthook hgn_ObjectSpawner
 endhook hgn_ObjectSpawner
 
 ```
+
+starthook mf_Housing
+
+192.99.200.224
+
+endhook mf_Housing
+
+```
